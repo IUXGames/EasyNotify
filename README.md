@@ -118,4 +118,4 @@ After one notification ends, the next item in the queue is processed automatical
 
 ## 📄 License
 
-MIT License © 2026 IUX Games, Isaackiux.
+MIT License © 2026 | IUX Games, Isaackiux.

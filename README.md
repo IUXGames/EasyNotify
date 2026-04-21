@@ -1,7 +1,7 @@
 # EasyNotify for Godot 4 🔔
 
 [![Godot 4](https://img.shields.io/badge/Godot-4.x-478cbf?logo=godotengine&logoColor=white)](https://godotengine.org/)
-[![Version](https://img.shields.io/badge/version-0.1.0-5aafff)](./plugin.cfg)
+[![Version](https://img.shields.io/badge/version-0.1.1-5aafff)](./plugin.cfg)
 
 EasyNotify is a lightweight notification addon for **Godot 4** that gives you a ready-to-use on-screen toast system with minimal setup.
 
@@ -118,4 +118,4 @@ After one notification ends, the next item in the queue is processed automatical
 
 ## 📄 License
 
-MIT License © 2026 | IUX Games, Isaackiux.
+MIT License © 2026 IUX Games, Isaackiux.
